@@ -8,13 +8,9 @@
 
 ### 💻*What do I do?*
 I develop websites, programs, and a variety of other different projects
-<br>
-
 
 ### 🌼*My Course*
 BSc (Hons) in Computing in Software Development is a 4 year long degree which looks at agile process development, web development, networking, object oriented programming, security, data analysis, IoT and multiple other technologies.
-
-<br>
 
 ### 🎨*Interests*
  my passions include 
@@ -24,11 +20,9 @@ BSc (Hons) in Computing in Software Development is a 4 year long degree which lo
  - music (guitar)
  - reading
  - fashion.  
-<br>
 
 ### 🌺*Current Projects*
 I'm currently working on my own porfolio aswell as multiple other projects you'll see as I grow my expertise!
-<br>
 
 ### 🦋*Skills*
 <table>
@@ -82,8 +76,6 @@ I'm currently working on my own porfolio aswell as multiple other projects you'l
   </tr>
 
 </table>
-
-
 
 ### 🎀*Contact Me*
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meghan-keightley-01265a2b9/)](https://www.linkedin.com/in/meghan-keightley-01265a2b9/)
