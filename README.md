@@ -77,6 +77,5 @@ I'm currently working on my own porfolio aswell as multiple other projects you'l
 
 </table>
 
-### 🎀*Contact Me*
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meghan-keightley-01265a2b9/)](https://www.linkedin.com/in/meghan-keightley-01265a2b9/)
+
 
