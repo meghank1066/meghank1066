@@ -67,6 +67,10 @@ I'm currently working on my own porfolio aswell as multiple other projects you'l
     <td>Laravel Framework</td>
   </tr>
   <tr>
+    <td>Python</td>
+    <td>Android Studio</td>
+  </tr>
+  <tr>
     <td>Software Testing</td>
       <td>Express with MongoDB</td>
   </tr>
