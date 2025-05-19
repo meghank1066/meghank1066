@@ -71,6 +71,10 @@ I'm currently working on my own porfolio aswell as multiple other projects you'l
     <td>Android Studio</td>
   </tr>
   <tr>
+    <td>Unity</td>
+    <td>Blender & 3D Modelling</td>
+  </tr>
+  <tr>
     <td>Software Testing</td>
       <td>Express with MongoDB</td>
   </tr>
