@@ -1,89 +1,58 @@
-![Hi there](https://github.com/meghank1066/meghank1066/raw/main/readme.gif)
+# Hi, I'm Meghan Keightley
 
-### Hi there! I'm Meghan :)
+🎓 Final-year BSc (Hons) Computing in Software Development student at Dundalk Institute of Technology
+🔐 Interested in site reliability, full stack engineering  and secure application development
+💡 Focused on building reliable, user-friendly, and well-structured software
 
-### 💗 I'm a software development student studying at DKIT.
-### I'm familiar with multiple languages such as Java, C++, React, SQL, PHP and more. 
-<br>
+---
 
-### 💻*What do I do?*
-I develop websites, programs, and a variety of other different projects
+👩‍💻 About Me
 
-### 🌼*My Course*
-BSc (Hons) in Computing in Software Development is a 4 year long degree which looks at agile process development, web development, networking, object oriented programming, security, data analysis, IoT and multiple other technologies.
+I’m a fourth-year software development student with a strong interest in UX-focused web applications and full-stack engineering. I enjoy designing interfaces that are both visually engaging and technically sound, while also building the systems behind them.
 
-### 🎨*Interests*
- my passions include 
- - web design
- - video editing
- - fitness
- - music (guitar)
- - reading
- - fashion.  
+My work combines front-end design, back-end logic, and database development, with an emphasis on usability, responsiveness, and clean architecture.
 
-### 🌺*Current Projects*
-I'm currently working on my own porfolio aswell as multiple other projects you'll see as I grow my expertise!
+Currently contributing to SporeX, an AI-powered mobile application, where I focus on front-end development, UI/UX decisions, and agile team coordination.
 
-### 🦋*Skills*
-<table>
-  <tr>
-    <th>Skills</th>
-    <th>Utilities</th>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td>VS Code</td>
-  </tr>
-  <tr>
-    <td>C++</td>
-   <td>Adobe After Effects</td>
-  </tr>
-  <tr>
-    <td>React with Node.js</td>
-    <td>Adobe Photoshop</td>
-  </tr>
-  <tr>
-    <td>Javascript</td>
-   <td>Adobe Illustrator</td>
-  </tr>
-  <tr>
-    <td>MySQL</td>
-    <td>Ms Excel</td>
-  </tr>
-    <tr>
-    <td>HTML</td>
-   <td>MS Word</td>
-  </tr>
-    <tr>
-    <td>SCSS/CSS</td>
-    <td>Bootstrap/Tailwind</td>
-  </tr>
-    <tr>
-    <td>Git</td>
-    <td>Github</td>
-  </tr>
-   <tr>
-    <td>PHP</td>
-    <td>Laravel Framework</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Android Studio</td>
-  </tr>
-  <tr>
-    <td>Unity</td>
-    <td>Blender & 3D Modelling</td>
-  </tr>
-  <tr>
-    <td>Software Testing</td>
-      <td>Express with MongoDB</td>
-  </tr>
-   <tr>
-    <td>Scrumwise</td>
-    <td>Cisco Packet Tracer</td>
-  </tr>
+📫 Contact me at megankeightley5@gmail.com
+[![Follow on GitHub](https://img.shields.io/github/followers/meghank1066?label=Follow&style=social)](https://github.com/meghank1066)
+---
 
-</table>
+## 🧰 Tech Stack
 
+```js
+const meghan = {
+  languages: ["Java", "Python", "C#", "JavaScript", "C++", "PHP", "Kotlin", "Swift"],
+  frontend: ["React", "HTML", "CSS", "SCSS"],
+  backend: ["ASP.NET Core", "REST APIs", "Node.js", "Laravel"],
+  databases: ["SQL", "MongoDB"],
+  tools: ["Git", "Linux", "Kali", "VirtualBox", "Cisco Packet Tracer"],
+  practices: ["Agile", "Scrum", "Sprint Planning", "Requirements Analysis"],
+  interests: ["Cyber Security", "UI/UX", "Web Development", "Gym", "Music"]
+};
+```
 
+---
+
+## 📚 Education
+
+**BSc (Hons) Computing in Software Development**
+Dundalk Institute of Technology (Expected 2026)
+
+Key areas:
+
+* Artificial Intelligence
+* Algorithms & Data Structures
+* Full-Stack Development
+* Cyber Security
+* Data Science
+* IoT Development
+
+---
+
+ ## 🚀 My Projects
+
+* **SporeX** – AI mould detection mobile app (Final Year Thesis)
+* **Immersive VR Experience** – Unity + Meta Quest collaborative Erasmus+ project
+* **Style Recommendation API** – Weather-based outfit recommendation engine
 
