@@ -3,6 +3,8 @@
 🎓 Final-year BSc (Hons) Computing in Software Development student at Dundalk Institute of Technology
 🔐 Interested in site reliability, full stack engineering  and secure application development
 💡 Focused on building reliable, user-friendly, and well-structured software
+📫 Contact me at megankeightley5@gmail.com
+[![Follow on GitHub](https://img.shields.io/github/followers/meghank1066?label=Follow&style=social)](https://github.com/meghank1066)
 
 ---
 
@@ -13,9 +15,6 @@ I’m a fourth-year software development student with a strong interest in UX-fo
 My work combines front-end design, back-end logic, and database development, with an emphasis on usability, responsiveness, and clean architecture.
 
 Currently contributing to SporeX, an AI-powered mobile application, where I focus on front-end development, UI/UX decisions, and agile team coordination.
-
-📫 Contact me at megankeightley5@gmail.com
-[![Follow on GitHub](https://img.shields.io/github/followers/meghank1066?label=Follow&style=social)](https://github.com/meghank1066)
 ---
 
 ## 🧰 Tech Stack
