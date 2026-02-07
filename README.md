@@ -3,7 +3,10 @@
 🎓 Final-year BSc (Hons) Computing in Software Development student at Dundalk Institute of Technology
 🔐 Interested in site reliability, full stack engineering  and secure application development
 💡 Focused on building reliable, user-friendly, and well-structured software
+
+
 📫 Contact me at megankeightley5@gmail.com
+
 [![Follow on GitHub](https://img.shields.io/github/followers/meghank1066?label=Follow&style=social)](https://github.com/meghank1066)
 
 ---
