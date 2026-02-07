@@ -17,7 +17,9 @@ I’m a fourth-year software development student with a strong interest in UX-fo
 My work combines front-end design, back-end logic, and database development, with an emphasis on usability, responsiveness, and clean architecture.
 
 Currently contributing to SporeX, an AI-powered mobile application, where I focus on front-end development, UI/UX decisions, and agile team coordination.
+
 ---
+
 
 ## 🧰 Tech Stack
 
