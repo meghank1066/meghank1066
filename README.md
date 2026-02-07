@@ -21,7 +21,7 @@ Currently contributing to SporeX, an AI-powered mobile application, where I focu
 ---
 
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ```js
 const meghan = {
@@ -37,7 +37,7 @@ const meghan = {
 
 ---
 
-## 📚 Education
+## Education
 
 **BSc (Hons) Computing in Software Development**
 Dundalk Institute of Technology (Expected 2026)
@@ -53,7 +53,7 @@ Key areas:
 
 ---
 
- ## 🚀 My Projects
+ ## My Projects
 
 * **SporeX** – AI mould detection mobile app (Final Year Thesis)
 * **Immersive VR Experience** – Unity + Meta Quest collaborative Erasmus+ project
