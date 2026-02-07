@@ -1,9 +1,8 @@
 # Hi, I'm Meghan Keightley
 
-🎓 Final-year BSc (Hons) Computing in Software Development student at Dundalk Institute of Technology
-🔐 Interested in full stack engineering, site reliability  and secure application development
+🎓 Final-year BSc (Hons) Computing in Software Development student at Dundalk Institute of Technology<br>
+🔐 Interested in full stack engineering, site reliability and secure application development<br>
 💡 Focused on building reliable, user-friendly and well-structured software
-
 
 📫 Contact me at megankeightley5@gmail.com
 
