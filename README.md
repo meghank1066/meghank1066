@@ -1,6 +1,6 @@
 ![Hi there](https://github.com/meghank1066/meghank1066/raw/main/readme.gif)
 
-# Hi, I'm Meghan 💗
+# Hi, I'm Meghan
 
 🎓 Final-year BSc (Hons) Computing in Software Development student at Dundalk Institute of Technology<br>
 🔐 Interested in full stack engineering, site reliability and secure application development<br>
