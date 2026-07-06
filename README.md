@@ -58,4 +58,4 @@ Key areas:
 ## 🌼 My Portfolio
 
 A collection of my work, experiments, and digital builds.  
-[:contentReference[oaicite:0]{index=0}](https://www.meghankeightley.site/)
+https://www.meghankeightley.site
