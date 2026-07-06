@@ -55,9 +55,7 @@ Key areas:
 
 ---
 
- ## 🌼 My Projects
+## 🌼 My Portfolio
 
-* **SporeX** – AI mould detection mobile app (Final Year Thesis)
-* **Immersive VR Experience** – Unity + Meta Quest collaborative Erasmus+ project
-* **Style Recommendation API** – Weather-based outfit recommendation engine
-
+A collection of my work, experiments, and digital builds.  
+[:contentReference[oaicite:0]{index=0}](https://www.meghankeightley.site/)
