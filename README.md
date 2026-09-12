@@ -7,7 +7,6 @@
 🎨 Interested in software engineering, UX, product design and interactive technology<br>
 💡 Focused on building reliable, user-friendly and well-structured software
 
-📫 Contact me at [megankeightley5@gmail.com](mailto:megankeightley5@gmail.com)
 
 [![Follow on GitHub](https://img.shields.io/github/followers/meghank1066?label=Follow\&style=social)](https://github.com/meghank1066)
 
