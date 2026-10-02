@@ -9,5 +9,3 @@ https://www.meghankeightley.site
 
 
 [![Follow on GitHub](https://img.shields.io/github/followers/meghank1066?label=Follow\&style=social)](https://github.com/meghank1066)
-
-![meghank1066's Contribution Graph](https://ez4o.com)
